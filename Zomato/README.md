@@ -1,7 +1,6 @@
-# IPL-2023-Analytics
-# Cricket Data Analytics🏏
+# Zomato Analytics
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://www.python.org/static/img/python-logo@2x.png)
 ![SQL](https://img.shields.io/badge/SQL-%23150458.svg?style=for-the-badge&logo=SQL&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-%23C6EFCE.svg?style=for-the-badge&logo=powerquery&logoColor=white)
 
