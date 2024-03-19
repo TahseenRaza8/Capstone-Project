@@ -12,34 +12,34 @@ significant patterns, providing valuable insights into the city's
 culinary scene.
 3) Findings Include:
 
- Location Impact:Identified that BTM Layout has the
+   Location Impact:Identified that BTM Layout has the
 highest number of restaurants, while Domlur offers a more
 exclusive dining experience with fewer culinary
 establishments.
 
- Online Ordering: Discovered that a substantial number
+   Online Ordering: Discovered that a substantial number
 of restaurants in the dataset offer online ordering,
 reflecting the industry's modern digital approach.
 
- Location-based Preferences: Found that areas like BTM
+   Location-based Preferences: Found that areas like BTM
 have embraced online ordering more prominently
 compared to Domlur, indicating distinct consumer
 preferences across localities.
 
- Table Reservations: Explored dining trends in
+   Table Reservations: Explored dining trends in
 Koramangala's 5th block, revealing a preference for table
 reservations, contrasting BTM's inclination for walk-in
 dining.
 
- Pubs and Bars: Noted impressive average ratings for
+   Pubs and Bars: Noted impressive average ratings for
 pubs and bars, suggesting Bangalore's vibrant nightlife
 and selective pub-goers.
 
- Dine-out vs. Delivery: Recognized BTM as a hub for both
+   Dine-out vs. Delivery: Recognized BTM as a hub for both
 delivery and dine-out restaurants, catering to diverse
 dining needs.
 
- Local Engagement: Highlighted the active culinary
+   Local Engagement: Highlighted the active culinary
 community in Koramangala's 5th Block, evident from
 significant voting participation.
 
