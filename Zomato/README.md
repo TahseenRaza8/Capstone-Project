@@ -11,7 +11,8 @@ valuable insights into Bangalore's restaurant landscape.
 significant patterns, providing valuable insights into the city's
 culinary scene.
 3) Findings Include:
- Location Impact: Identified that BTM Layout has the
+
+ Location Impact:Identified that BTM Layout has the
 highest number of restaurants, while Domlur offers a more
 exclusive dining experience with fewer culinary
 establishments.
