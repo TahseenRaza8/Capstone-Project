@@ -2,27 +2,57 @@
 
 ![Python](https://www.python.org/static/img/python-logo@2x.png)
 ![Machine Learning](https://i0.wp.com/www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png?ssl=1)
-![Power Query](https://img.shields.io/badge/Power_Query-%23C6EFCE.svg?style=for-the-badge&logo=powerquery&logoColor=white)
+![Jupiter Notebook](https://i.pngimg.me/thumb/f/720/m2H7K9d3N4Z5i8G6.jpg)
 
 ---
 
-The Cricket Data Analytics🏏 project is made on IPL 2023 Data. I have used **Power BI** for making the Dashboard. We can easily analyse the data of the matches played in the world cup. We can also choose our best playing 11 from the pool of players playing the world cup. 
+1) Conducted in-depth analysis of real-time Zomato data to extract
+valuable insights into Bangalore's restaurant landscape.
+2) Utilized a range of analytical techniques to identify key trends and
+significant patterns, providing valuable insights into the city's
+culinary scene.
+3) Findings Include:
+ Location Impact: Identified that BTM Layout has the
+highest number of restaurants, while Domlur offers a more
+exclusive dining experience with fewer culinary
+establishments.
+ Online Ordering: Discovered that a substantial number
+of restaurants in the dataset offer online ordering,
+reflecting the industry's modern digital approach.
+ Location-based Preferences: Found that areas like BTM
+have embraced online ordering more prominently
+compared to Domlur, indicating distinct consumer
+preferences across localities.
+Enthusiastic and passionate aspiring data analytics professional with a skillful
+educational background in Data Analytics from Imarticus Learning. Proficient
+at applying analytical and statistical techniques to derive valuable insights
+from complex data sets. Equipped with a solid foundation in machine
+learning, data visualization, and programming languages. Eager to leverage
+academic training and passion for data-driven decision-making to contribute
+effectively as a Data Scientist.
+ Table Reservations: Explored dining trends in
+Koramangala's 5th block, revealing a preference for table
+reservations, contrasting BTM's inclination for walk-in
+dining.
+ Pubs and Bars: Noted impressive average ratings for
+pubs and bars, suggesting Bangalore's vibrant nightlife
+and selective pub-goers.
+ Dine-out vs. Delivery: Recognized BTM as a hub for both
+delivery and dine-out restaurants, catering to diverse
+dining needs.
+ Local Engagement: Highlighted the active culinary
+community in Koramangala's 5th Block, evident from
+significant voting participation.
+4) Employed various machine learning models, including Logistic
+Regression, Decision Trees, and Random Forests, to predict
+different aspects of the dataset.
+5) Achieved remarkable model performance with the Random Forest
+model, showcasing 99.2% accuracy on the train set and an
+impressive 94.4% accuracy on the test set. Maintained optimal
+balance between overfitting and underfitting.
 
-> To interact with the dashboard you can download the pbix file from the repository and open it in Power BI Desktop locally.
 
 ---
 # Steps involved in the project:
+**Data Collection** using Web Scraping from [Kaggle](https://www.kaggle.com/datasets/soumyojyotidutta/zomato-restaurant-in-bengaluru-dataset) website
 
-1. Requirement Scoping
-2. **Data Collection** using Web Scraping from [Kaggle](https://www.kaggle.com/) website
-3. **Data Cleaning** and Preprocessing in Excel [CSV Files](https://github.com/sagarkj2001/IPL-2023-Analytics/tree/main/CSV%20Files)
-4. **Data Transformation** in Power Query
-5.  **Data Validation** is done in PostgreSQL   [SQL](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/IPL2023.sql)
-6. **Data Modelling** and Building Parameters in Power BI using DAX
-7. Building the **Dashboard** in Power BI    [Screenshots](https://github.com/sagarkj2001/IPL-2023-Analytics/tree/main/Screenshots)
-
----
-## Dashboard Sanps
-![Summary](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/Screenshots/Summary.png)
-![Teams](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/Screenshots/Teams.png)
-![Player](https://github.com/sagarkj2001/IPL-2023-Analytics/blob/main/Screenshots/Player.png)
