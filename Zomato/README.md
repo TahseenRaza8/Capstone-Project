@@ -53,5 +53,5 @@ balance between overfitting and underfitting.
 
 
 ---
-# **Data Collection** using Web Scraping from [Kaggle](https://www.kaggle.com/datasets/soumyojyotidutta/zomato-restaurant-in-bengaluru-dataset) website
+# **Data Collection** from [Kaggle](https://www.kaggle.com/datasets/soumyojyotidutta/zomato-restaurant-in-bengaluru-dataset) website
 
